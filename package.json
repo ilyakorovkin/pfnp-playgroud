@@ -1,0 +1,26 @@
+{
+  "name": "pfnp-playgroud",
+  "version": "1.0.0",
+  "description": "backend example",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyakorovkin/pfnp-playgroud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyakorovkin/pfnp-playgroud/issues"
+  },
+  "homepage": "https://github.com/ilyakorovkin/pfnp-playgroud#readme"
+}
